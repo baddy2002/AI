@@ -1,4 +1,4 @@
-# My Projects
+# AI Projects
 
 Benvenuto nella mia raccolta di progetti di AI!
 
